@@ -1,0 +1,7 @@
+C:\0BKIT-Labs\Lab-2\bin\Debug\Lab-2.exe.config
+C:\0BKIT-Labs\Lab-2\bin\Debug\Lab-2.exe
+C:\0BKIT-Labs\Lab-2\bin\Debug\Lab-2.pdb
+C:\0BKIT-Labs\Lab-2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\0BKIT-Labs\Lab-2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\0BKIT-Labs\Lab-2\obj\Debug\Lab-2.exe
+C:\0BKIT-Labs\Lab-2\obj\Debug\Lab-2.pdb
